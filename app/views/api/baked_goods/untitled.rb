@@ -1,0 +1,1 @@
+kouign_amann_view.json.jbuilder
